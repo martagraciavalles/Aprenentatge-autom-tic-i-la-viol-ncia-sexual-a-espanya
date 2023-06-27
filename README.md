@@ -14,11 +14,11 @@ This repository contains the code and resources used for the development of my e
 
 ## Data and code release
 The project consists on three main phases, which correspond with the directories of the present repository: 
-1. **[Cases classification](https://github.com/martagraciavalles/spanish_media_coverage_sexual_violence/tree/main/cases_classification)**: News articles were grouped according to the sexual violence case they share information about. The clustering was done in two steps: first, we computed the similarity of each pair of cases; next, we make the graph with articles based on this similarity. 
+1. **[Cases classification](https://github.com/martagraciavalles/Aprenentatge-autom-tic-i-la-viol-ncia-sexual-a-espanya/tree/main/cases_classification)**: News articles were grouped according to the sexual violence case they share information about. The clustering was done in two steps: first, we computed the similarity of each pair of cases; next, we make the graph with articles based on this similarity. 
 
-2. **[Articles classification](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/articles_analysis)**: We classify items in two different ways. According to the number of perpetrators involved in the case and according to the relationship between the victim and the perpetrator.
+2. **[Articles classification](https://github.com/martagraciavalles/Aprenentatge-autom-tic-i-la-viol-ncia-sexual-a-espanya/tree/main/articles_classification)**: We classify items in two different ways. According to the number of perpetrators involved in the case and according to the relationship between the victim and the perpetrator.
 
-3. **[Vocabulary analysis](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/tree/main/articles_analysis)**: We analyse the vocabulary used in the different types of cases through the different grammatical categories (adj, adv, noun, verb).
+3. **[Vocabulary analysis](https://github.com/martagraciavalles/Aprenentatge-autom-tic-i-la-viol-ncia-sexual-a-espanya/tree/main/vocabulary_alanysis)**: We analyse the vocabulary used in the different types of cases through the different grammatical categories (adj, adv, noun, verb).
 
 
 ## Report 
