@@ -18,7 +18,7 @@ The project consists on three main phases, which correspond with the directories
 
 2. **[Articles classification](https://github.com/martagraciavalles/Aprenentatge-autom-tic-i-la-viol-ncia-sexual-a-espanya/tree/main/articles_classification)**: We classify items in two different ways. According to the number of perpetrators involved in the case and according to the relationship between the victim and the perpetrator.
 
-3. **[Vocabulary analysis](https://github.com/martagraciavalles/Aprenentatge-autom-tic-i-la-viol-ncia-sexual-a-espanya/tree/main/vocabulary_alanysis)**: We analyse the vocabulary used in the different types of cases through the different grammatical categories (adj, adv, noun, verb).
+3. **[Vocabulary analysis](https://github.com/martagraciavalles/Aprenentatge-autom-tic-i-la-viol-ncia-sexual-a-espanya/tree/main/vocabulary_analysis)**: We analyse the vocabulary used in the different types of cases through the different grammatical categories (adj, adv, noun, verb).
 
 
 ## Report 
