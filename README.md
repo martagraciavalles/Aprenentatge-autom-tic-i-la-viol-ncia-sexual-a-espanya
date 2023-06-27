@@ -22,5 +22,5 @@ The project consists on three main phases, which correspond with the directories
 
 
 ## Report 
-A detailed report (in PDF format) is included in this repository and can be downloaded [here](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/blob/main/report.pdf).
+A detailed report (in PDF format) is included in this repository and can be downloaded [here](https://github.com/marilenabudan/spanish_media_coverage_sexual_violence/blob/main/TFG_MARTA_GRACIA.pdf).
 
